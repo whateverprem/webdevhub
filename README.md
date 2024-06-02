@@ -1,5 +1,5 @@
 # webdevhub
-50+ mini projects in HTML, CSS &amp; JavaScript that relate to the DOM (Document Object Model) [credits: Brad Traversy, Florin Pop]
+5̶0̶+̶  7 mini projects in HTML, CSS &amp; JavaScript that relate to the DOM (Document Object Model) [credits: [Brad Traversy](https://www.traversymedia.com/50-Projects-In-50-Days), Florin Pop]
 
 1. Expanding Cards
 2. Progress Steps
